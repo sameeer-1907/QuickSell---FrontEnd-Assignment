@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/css/main.3bfc7a9b.css",
+    "main.js": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/js/main.bb0cffe3.js",
+    "static/js/453.b995ab79.chunk.js": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/js/453.b995ab79.chunk.js",
+    "static/media/logo.svg": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/index.html",
+    "main.3bfc7a9b.css.map": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/css/main.3bfc7a9b.css.map",
+    "main.bb0cffe3.js.map": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/js/main.bb0cffe3.js.map",
+    "453.b995ab79.chunk.js.map": "/sameeer-1907/QuickSell---FrontEnd-Assignment.git/static/js/453.b995ab79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bfc7a9b.css",
+    "static/js/main.bb0cffe3.js"
+  ]
+}
